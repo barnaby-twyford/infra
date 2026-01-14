@@ -47,5 +47,5 @@ enable_dns_support   = true
 k8s_infra_repo_url     = "https://github.com/mosip/k8s-infra.git"
 k8s_infra_branch       = "develop"
 wireguard_peers        = 30
-enable_wireguard_setup = true
+enable_wireguard_setup = false
 
