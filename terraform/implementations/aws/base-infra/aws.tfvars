@@ -27,6 +27,7 @@ jumpserver_ami_id = "ami-0ad21ae1d0696ad58"
 create_jumpserver_eip = false
 
 # Network configuration
+vpc_name       = "vpc_mosip-boxes"
 network_name       = "mosip-boxes"
 network_cidr       = "10.0.0.0/16"
 public_subnets     = ["10.0.1.0/24", "10.0.2.0/24"]
