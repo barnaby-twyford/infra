@@ -15,7 +15,7 @@ mosip_email_id = "barnaby@openbq.io"
 ssh_key_name = "mosip_openbq"
 
 # AWS region
-aws_provider_region = "ap-south-1"
+aws_provider_region = "ap-southeast-2"
 
 # Jump server instance type
 jumpserver_instance_type = "t3.medium"
