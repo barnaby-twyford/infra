@@ -12,7 +12,7 @@ jumpserver_name = "jumpbox"
 mosip_email_id = "barnaby@openbq.io"
 
 # SSH key name for AWS instances
-ssh_key_name = "<ssh_key_name>"
+ssh_key_name = "mosip-aws"
 
 # AWS region
 aws_provider_region = "ap-south-1"
