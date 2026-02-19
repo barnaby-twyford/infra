@@ -6,10 +6,10 @@
 cloud_provider = "aws"
 
 # Environment name
-jumpserver_name = "<jumpserver_name>"
+jumpserver_name = "jumpbox"
 
 # Email-ID for SSL certificate notifications
-mosip_email_id = "<mosip_email_id>"
+mosip_email_id = "barnaby@openbq.io"
 
 # SSH key name for AWS instances
 ssh_key_name = "<ssh_key_name>"
